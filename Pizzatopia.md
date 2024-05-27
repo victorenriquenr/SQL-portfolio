@@ -1,9 +1,13 @@
 
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; font-family: Arial, sans-serif; color: #333;">
+    <h1 style="color: #d9534f; text-align: center;">Proyecto de Consultoría BI para Pizzatopia</h1>
+    <p>En este proyecto, asumo el papel de <span style="background-color: #d9534f; color: white; padding: 3px 5px; border-radius: 5px;">Consultor de BI</span> para <strong>Pizzatopia</strong>, una pizzería (ficticia) comprometida con la excelencia en la satisfacción del cliente y la eficiencia operativa. Aunque Pizzatopia ha estado recopilando datos transaccionales durante el último año, hasta ahora no ha podido utilizarlos de manera efectiva para impulsar las ventas y optimizar las operaciones.</p>
+    
+   <h2 style="color: #d9534f; text-align: center;">Objetivo del Proyecto</h2>
+  <p>El objetivo de este proyecto es analizar los datos existentes para identificar oportunidades de mejora en las ventas y la eficiencia operativa. Utilizando una base de datos <strong>MySQL</strong> alojada en <strong>Google Cloud</strong>, llevaré a cabo un análisis exhaustivo y desarrollaré visualizaciones interactivas mediante <strong>Looker Studio</strong>. Estas herramientas permitirán transformar los datos en insights accionables y facilitarán la toma de decisiones informadas.</p>
 
-
-
-
-
+  <h2 style="color: #d9534f; text-align: center;">Consultas SQL</h2>
+</div>
 
 -- 1. ¿Cuál es el número promedio de clientes al día?
 
