@@ -6,6 +6,8 @@
    <h2 style="color: #d9534f; text-align: center;">Objetivo del Proyecto</h2>
   <p>El objetivo de este proyecto es analizar los datos existentes para identificar oportunidades de mejora en las ventas y la eficiencia operativa. Utilizando una base de datos <strong>MySQL</strong> alojada en <strong>Google Cloud</strong>, llevaré a cabo un análisis exhaustivo y desarrollaré visualizaciones interactivas mediante <strong>Looker Studio</strong>. Estas herramientas permitirán transformar los datos en insights accionables y facilitarán la toma de decisiones informadas.</p>
 
+  El conjunto de datos, que tiene cuatro tablas con un total de 48.620 registros y doce campos, se puede encontrar en https://www.mavenanalytics.io/data-playground con el nombre Pizza Place Sales.
+
   <h2 style="color: #d9534f; text-align: center;">Consultas SQL</h2>
 </div>
 
@@ -145,7 +147,7 @@ WHERE subquery.pizzas <3;
 </code>
 </pre>
 
-## <b> Results: https://lookerstudio.google.com/s/jfai69kWXUg </b>
+## <b> Resultados: https://lookerstudio.google.com/s/jfai69kWXUg </b>
 <div>
     <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*kxfn2q_nUQo-EyiU7rnd7g.jpeg" alt="Dashboard" style="max-width: 100%; height: auto;">
 </div>
